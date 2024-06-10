@@ -1,1 +1,1 @@
-# silver-palm-tree
+# Silver Palm Tree
