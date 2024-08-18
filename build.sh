@@ -1,3 +1,3 @@
 #!/bin/sh
 
-echo "hello everybody"
+echo "hello everybody dev"
